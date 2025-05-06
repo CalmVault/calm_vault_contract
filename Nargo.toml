@@ -1,0 +1,6 @@
+[package]
+name = "calmvault_contract"
+type = "contract"
+authors = [""]
+
+[dependencies]
